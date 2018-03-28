@@ -4,7 +4,7 @@
 
 ### Node.js Installation
 
-Go to https://nodejs.org/en/ and download Node.js
+Go to [node.js](https://nodejs.org/en/) and download Node.js
 
 ### Protractor Installation
 
@@ -21,9 +21,9 @@ Steps to get Protractor working on MAC, windows should be same.
 
 3. - Create a test new folder you can name it anything, and then inside
 
-   A)  Make a file called - [test.js](shipt-automation/test.js)
+   A)  Make a file called - [test.js](test.js)
    
-   B) Make a new file called - [conf.js](shipt-automation/test.js)
+   B) Make a new file called - [conf.js](config.js)
    
 3. -  Now open a new terminal
           >  Navigate to directory you created. cd <directory Name>
